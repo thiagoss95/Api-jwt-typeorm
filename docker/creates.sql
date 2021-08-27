@@ -1,3 +1,5 @@
+--- Serao criados o usuario 'docker' e a database 'apijwt' nesse script ---
+
 -- Create new role --
 CREATE USER docker WITH SUPERUSER PASSWORD 'docker';
 
